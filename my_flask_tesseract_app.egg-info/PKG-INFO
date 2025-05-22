@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: my_flask_tesseract_app
+Version: 0.1.0
+Summary: A Flask app with Tesseract OCR included
+Home-page: https://github.com/vinaykumarkv/my_flask_tesseract_app
+Author: Your Name
+Author-email: your.email@example.com
+Description-Content-Type: text/markdown
+Requires-Dist: Flask
+Requires-Dist: pytesseract
+Requires-Dist: Pillow
+
+# My Flask Tesseract App
+
+This is a Flask app that includes Tesseract OCR for performing optical character recognition on images.
+
+## Usage
+
+```bash
+python run.py

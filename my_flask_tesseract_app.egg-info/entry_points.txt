@@ -1,0 +1,2 @@
+[console_scripts]
+run_my_flask_app = run:app.run

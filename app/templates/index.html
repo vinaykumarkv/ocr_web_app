@@ -1,0 +1,20 @@
+<!-- app/templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask Tesseract App</title>
+</head>
+<body>
+    <h1>Upload an Image for OCR</h1>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept="image/*">
+        <button type="submit">Upload</button>
+    </form>
+    {% if text %}
+    <h2>Extracted Text:</h2>
+    <pre>{{ text }}</pre>
+    {% endif %}
+</body>
+</html>

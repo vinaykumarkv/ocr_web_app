@@ -1,0 +1,9 @@
+setup.py
+app/__init__.py
+app/routes.py
+my_flask_tesseract_app.egg-info/PKG-INFO
+my_flask_tesseract_app.egg-info/SOURCES.txt
+my_flask_tesseract_app.egg-info/dependency_links.txt
+my_flask_tesseract_app.egg-info/entry_points.txt
+my_flask_tesseract_app.egg-info/requires.txt
+my_flask_tesseract_app.egg-info/top_level.txt

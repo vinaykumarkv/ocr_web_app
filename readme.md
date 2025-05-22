@@ -1,4 +1,4 @@
-# My OCR Web App
+# OCR Web App
 
 This is a Flask application that includes Tesseract OCR for performing optical character recognition on images.
 

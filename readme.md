@@ -61,6 +61,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 # Contact
-If you have any questions or issues, please contact Vinay Kumar K V.
-
-This `README.md` file provides comprehensive instructions for setting up, installing, and running your Flask Tesseract application.
+If you have any questions or issues, please contact Vinay Kumar K V - kvvk.win@gmail.com
